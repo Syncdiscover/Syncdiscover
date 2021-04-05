@@ -1,2 +1,6 @@
 <?php ?>
-*{margin:0; padding:0;}
+body {
+background: #ffffff url("img_bg.jpg") no-repeat right top;
+background-attachment: fixed;
+background-size: cover;
+}
