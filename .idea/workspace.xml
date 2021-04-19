@@ -44,7 +44,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" path="">
@@ -76,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618829952394</updated>
-      <workItem from="1618829955918" duration="436000" />
+      <workItem from="1618829955918" duration="5093000" />
     </task>
     <servers />
   </component>
@@ -84,10 +84,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="452" y="155" key="#Deployment" timestamp="1618830178426">
+    <state x="452" y="155" key="#Deployment" timestamp="1618830682911">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="452" y="155" key="#Deployment/0.0.1920.1160@0.0.1920.1160" timestamp="1618830178426" />
+    <state x="452" y="155" key="#Deployment/0.0.1920.1160@0.0.1920.1160" timestamp="1618830682911" />
+    <state x="452" y="155" key="#Options" timestamp="1618830555564">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="452" y="155" key="#Options/0.0.1920.1160@0.0.1920.1160" timestamp="1618830555564" />
     <state x="624" y="73" key="#PHP" timestamp="1618830219685">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -100,13 +104,21 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="690" y="277" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1618830165832" />
-    <state x="772" y="488" key="NewPhpFileDialog" timestamp="1618830109546">
+    <state x="772" y="488" key="NewPhpFileDialog" timestamp="1618833057422">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="772" y="488" key="NewPhpFileDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1618830109546" />
-    <state x="753" y="248" key="ftp.server.browser" timestamp="1618830083886">
+    <state x="772" y="488" key="NewPhpFileDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1618833057422" />
+    <state x="352" y="137" key="SettingsEditor" timestamp="1618830706078">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="753" y="248" key="ftp.server.browser/0.0.1920.1160@0.0.1920.1160" timestamp="1618830083886" />
+    <state x="352" y="137" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1618830706078" />
+    <state x="753" y="248" key="ftp.server.browser" timestamp="1618830657615">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="753" y="248" key="ftp.server.browser/0.0.1920.1160@0.0.1920.1160" timestamp="1618830657615" />
+    <state x="532" y="267" key="run.anything.popup" timestamp="1618834339062">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="532" y="267" key="run.anything.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1618834339062" />
   </component>
 </project>

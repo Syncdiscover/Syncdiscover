@@ -2,10 +2,7 @@
 $path  = $_SERVER['DOCUMENT_ROOT']."/";
 $siteurl = "http://syncdiscover.local/";
 ?>
-<!DOCTYPE HTML>
-<html lang="en">
-<head>
-    <title>Syncdiscover</title>
+
 
 <meta charset="utf-8">
 <meta name="robots" content="noindex, nofollow">
