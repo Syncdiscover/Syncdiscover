@@ -1,5 +1,5 @@
 
+body {
+    background-image: url("/assets/bg_img.jpg"); background-size: cover; background-position: center; background-repeat: no-repeat; background-attachment: fixed;
+}
 
-.sync {color: #a20200;}
-
-nav a span {font-family: "Arial Rounded MT Bold"; text-transform: uppercase;}

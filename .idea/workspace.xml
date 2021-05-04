@@ -26,6 +26,13 @@
     <expand />
     <select />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -44,7 +51,14 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\MAMP\htdocs\Syncdiscover\project" />
+      <recent name="C:\MAMP\htdocs\Syncdiscover\assets" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" path="">
@@ -65,6 +79,7 @@
         </serviceView>
       </list>
     </option>
+    <option name="showServicesTree" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -76,7 +91,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618829952394</updated>
-      <workItem from="1618829955918" duration="5093000" />
+      <workItem from="1618829955918" duration="5190000" />
+      <workItem from="1620052532508" duration="613000" />
+      <workItem from="1620053165735" duration="2324000" />
+      <workItem from="1620059176255" duration="6065000" />
+      <workItem from="1620140496864" duration="2505000" />
+      <workItem from="1620144960264" duration="3084000" />
     </task>
     <servers />
   </component>
@@ -100,25 +120,29 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="414" y="228" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1618830099094" />
+    <state x="687" y="365" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620063248905">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="687" y="365" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1620063248905" />
     <state x="690" y="277" key="FileChooserDialogImpl" timestamp="1618830165832">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="690" y="277" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1618830165832" />
-    <state x="772" y="488" key="NewPhpFileDialog" timestamp="1618833057422">
+    <state x="772" y="488" key="NewPhpFileDialog" timestamp="1620063108442">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="772" y="488" key="NewPhpFileDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1618833057422" />
-    <state x="352" y="137" key="SettingsEditor" timestamp="1618830706078">
+    <state x="772" y="488" key="NewPhpFileDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1620063108442" />
+    <state x="352" y="137" key="SettingsEditor" timestamp="1620059674101">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="352" y="137" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1618830706078" />
+    <state x="352" y="137" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1620059674101" />
     <state x="753" y="248" key="ftp.server.browser" timestamp="1618830657615">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="753" y="248" key="ftp.server.browser/0.0.1920.1160@0.0.1920.1160" timestamp="1618830657615" />
-    <state x="532" y="267" key="run.anything.popup" timestamp="1618834339062">
+    <state x="532" y="267" key="run.anything.popup" timestamp="1620062551857">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="532" y="267" key="run.anything.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1618834339062" />
+    <state x="532" y="267" key="run.anything.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1620062551857" />
   </component>
 </project>
