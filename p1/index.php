@@ -8,13 +8,10 @@
 
 </head>
 <body class="bg">
-<div class="sd_wrap">
+<div class="sd_wrap mt-2">
 
     <?php include ('../include_files/pheader.php');?>
     <?php include ('../include_files/pnavbar.php');?>
-
-
-
 
 
 </div>

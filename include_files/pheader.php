@@ -2,7 +2,8 @@
 
 
 <div class="row">
-    <div class="col-sm-2 col-md-2 col-lg-2 col-lx-2 d-none d-sm-block"><a href="#"><img src="../assets/sd_logo.png" alt="SD_Logo"></a></div>
+    <div class="col-sm-2 col-md-2 col-lg-2 col-lx-2 d-none d-sm-block animate__animated animate__tada"><a href="#">
+            <img src="../assets/sd_logo.png" alt="SD_Logo"></a></div>
     <div class="col-sm-12 col-md-10 col-lg-10 col-lx-10">
         <div class="top-nav d-flex justify-content-end">
             <ul class="nav font-weight-semibold text-small text-uppercase">
