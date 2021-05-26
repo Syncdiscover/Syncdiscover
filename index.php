@@ -8,9 +8,9 @@
 </head>
 <body>
 
-<?php include ('include_files/header.php'); ?>
+    <?php include ('include_files/header.php'); ?>
 
-<?php include "include_files/footer_scripts.php" ?>
+    <?php include "include_files/footer_scripts.php" ?>
 
 </body>
 </html>

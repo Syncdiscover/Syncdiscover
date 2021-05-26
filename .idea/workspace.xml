@@ -50,9 +50,9 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/jagahonline_properify_uk_uae" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -96,12 +96,23 @@
       <workItem from="1620053165735" duration="2324000" />
       <workItem from="1620059176255" duration="6065000" />
       <workItem from="1620140496864" duration="2505000" />
-      <workItem from="1620144960264" duration="3084000" />
+      <workItem from="1620144960264" duration="3757000" />
+      <workItem from="1620313984192" duration="7895000" />
+      <workItem from="1620491726492" duration="448000" />
+      <workItem from="1620492618507" duration="126000" />
+      <workItem from="1620492758939" duration="1295000" />
+      <workItem from="1621355046525" duration="20000" />
+      <workItem from="1621355104104" duration="4040000" />
+      <workItem from="1621871330094" duration="329000" />
+      <workItem from="1621872094308" duration="2115000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
   </component>
   <component name="WindowStateProjectService">
     <state x="452" y="155" key="#Deployment" timestamp="1618830682911">
@@ -128,14 +139,14 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="690" y="277" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1618830165832" />
-    <state x="772" y="488" key="NewPhpFileDialog" timestamp="1620063108442">
+    <state x="772" y="488" key="NewPhpFileDialog" timestamp="1620314258680">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="772" y="488" key="NewPhpFileDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1620063108442" />
-    <state x="352" y="137" key="SettingsEditor" timestamp="1620059674101">
+    <state x="772" y="488" key="NewPhpFileDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1620314258680" />
+    <state x="352" y="137" key="SettingsEditor" timestamp="1620325475270">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="352" y="137" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1620059674101" />
+    <state x="352" y="137" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1620325475270" />
     <state x="753" y="248" key="ftp.server.browser" timestamp="1618830657615">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
