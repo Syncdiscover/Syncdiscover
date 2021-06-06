@@ -2,15 +2,10 @@
 <html lang="en">
 <head>
     <title>Syncdiscover</title>
-
-    <?php include ('include_files/header_scripts.php');?>
-
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-    <?php include ('include_files/header.php'); ?>
-
-    <?php include "include_files/footer_scripts.php" ?>
 
 </body>
 </html>

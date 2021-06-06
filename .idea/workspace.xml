@@ -50,14 +50,20 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/jagahonline_properify_uk_uae" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/p1/include_files" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\MAMP\htdocs\Syncdiscover\p1\include_files" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\MAMP\htdocs\Syncdiscover" />
+      <recent name="C:\MAMP\htdocs\Syncdiscover\p1" />
+      <recent name="C:\MAMP\htdocs\Syncdiscover\p1\include_files" />
+      <recent name="C:\MAMP\htdocs\Syncdiscover\include_files\p1" />
       <recent name="C:\MAMP\htdocs\Syncdiscover\project" />
-      <recent name="C:\MAMP\htdocs\Syncdiscover\assets" />
     </key>
   </component>
   <component name="RunManager">
@@ -106,6 +112,11 @@
       <workItem from="1621871330094" duration="329000" />
       <workItem from="1621872094308" duration="2115000" />
       <workItem from="1622052328333" duration="3640000" />
+      <workItem from="1622303865461" duration="1968000" />
+      <workItem from="1622306617122" duration="2458000" />
+      <workItem from="1622384128370" duration="7210000" />
+      <workItem from="1622737394968" duration="601000" />
+      <workItem from="1622969003825" duration="10195000" />
     </task>
     <servers />
   </component>
@@ -116,10 +127,10 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="452" y="155" key="#Deployment" timestamp="1618830682911">
+    <state x="452" y="155" key="#Deployment" timestamp="1622388362479">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="452" y="155" key="#Deployment/0.0.1920.1160@0.0.1920.1160" timestamp="1618830682911" />
+    <state x="452" y="155" key="#Deployment/0.0.1920.1160@0.0.1920.1160" timestamp="1622388362479" />
     <state x="452" y="155" key="#Options" timestamp="1618830555564">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -128,33 +139,45 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="624" y="73" key="#PHP/0.0.1920.1160@0.0.1920.1160" timestamp="1618830219685" />
-    <state x="414" y="228" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618830099094">
+    <state x="414" y="228" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622388201203">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="414" y="228" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1618830099094" />
+    <state x="414" y="228" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1622388201203" />
     <state x="687" y="365" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620063248905">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="687" y="365" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1620063248905" />
+    <state x="627" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1622971953883">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="627" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1622971953883" />
     <state x="690" y="277" key="FileChooserDialogImpl" timestamp="1618830165832">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="690" y="277" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1618830165832" />
-    <state x="772" y="488" key="NewPhpFileDialog" timestamp="1620314258680">
+    <state x="772" y="488" key="NewPhpFileDialog" timestamp="1622384556192">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="772" y="488" key="NewPhpFileDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1620314258680" />
-    <state x="352" y="137" key="SettingsEditor" timestamp="1620325475270">
+    <state x="772" y="488" key="NewPhpFileDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1622384556192" />
+    <state x="352" y="137" key="SettingsEditor" timestamp="1622388148192">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="352" y="137" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1620325475270" />
-    <state x="753" y="248" key="ftp.server.browser" timestamp="1618830657615">
+    <state x="352" y="137" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1622388148192" />
+    <state x="753" y="248" key="ftp.server.browser" timestamp="1622388346929">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="753" y="248" key="ftp.server.browser/0.0.1920.1160@0.0.1920.1160" timestamp="1618830657615" />
+    <state x="753" y="248" key="ftp.server.browser/0.0.1920.1160@0.0.1920.1160" timestamp="1622388346929" />
     <state x="532" y="267" key="run.anything.popup" timestamp="1620062551857">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="532" y="267" key="run.anything.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1620062551857" />
+    <state x="539" y="125" width="840" height="1034" key="search.everywhere.popup" timestamp="1622972661758">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="539" y="125" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1622972661758" />
+    <state x="714" y="258" key="webDeployment.PermissionsDialog.Tabs" timestamp="1622388172362">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="714" y="258" key="webDeployment.PermissionsDialog.Tabs/0.0.1920.1160@0.0.1920.1160" timestamp="1622388172362" />
   </component>
 </project>

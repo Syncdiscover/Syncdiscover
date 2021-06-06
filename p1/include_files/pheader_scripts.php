@@ -3,13 +3,12 @@ $path  = $_SERVER['DOCUMENT_ROOT']."/";
 $siteurl = "http://syncdiscover.local/";
 ?>
 
-
 <meta charset="utf-8">
 <meta name="robots" content="noindex, nofollow">
 <meta name="keywords" content="HTML,CSS,JavaScript">
 <meta name="author" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<link rel="icon" type="image/png" sizes="32x32" href="../assets/sd_32x32.png">
+<link rel="icon" type="image/png" sizes="32x32" href="../../assets/sd_32x32.png">
 <link rel="manifest" href="/manifest.json">
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
@@ -27,5 +26,5 @@ $siteurl = "http://syncdiscover.local/";
 <link rel="stylesheet" href="/assets/css/jquery.fancybox.min.css">
 <link rel="stylesheet" href="/assets/css/TimeCircles.css">
 <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.6.4/css/bootstrap-datepicker.standalone.min.css" rel="stylesheet"/>
-<link type="text/css" rel="stylesheet" href="../dist/pstyle.css">
+<link type="text/css" rel="stylesheet" href="pstyle.css">
 
